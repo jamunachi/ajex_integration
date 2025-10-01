@@ -1,0 +1,12 @@
+{
+ "doctype": "DocType",
+ "name": "AJEX Settings",
+ "module": "AJEX Integration",
+ "custom": 1,
+ "fields": [
+  {"fieldname": "username", "fieldtype": "Data", "label": "Username"},
+  {"fieldname": "password", "fieldtype": "Password", "label": "Password"},
+  {"fieldname": "base_url", "fieldtype": "Data", "label": "Base URL"},
+  {"fieldname": "token", "fieldtype": "Data", "label": "Token", "read_only": 1}
+ ]
+}
