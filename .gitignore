@@ -1,0 +1,20 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Node (if applicable)
+node_modules/
+
+# Logs
+*.log
